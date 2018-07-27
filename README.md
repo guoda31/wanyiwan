@@ -14,7 +14,15 @@ Obtain historical and real-time data for one stock.
 
 ### 1.b. GUI
 
-#### Graph
+
+#### Default
+- Allow user to select different views
+  - Index View: display major indexes: Nasdaq, SPX500, Dow.
+  - Display Multi-Stock watchlist
+
+
+
+#### Graphics
 Display stock data in graph 
 - historical/real-time price graph(with different time intervals)
 - candle graph (k-xian)
