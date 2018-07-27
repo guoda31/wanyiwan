@@ -25,6 +25,7 @@ Display stock data in graph
 #### Menu
 - import/export data to other file formats(csv)
 - allow user input for buying price (usd) and quantity and then calculate net gain/loss
+- allow user to input trading fees with their agencies to get more accurate net gain/loss
 - save and load graphs
 
 
